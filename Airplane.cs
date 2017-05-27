@@ -8,5 +8,9 @@ namespace projekt2
 {
     class Airplane
     {
+        int places;
+        int range;
+        
+        
     }
 }
