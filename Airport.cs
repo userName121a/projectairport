@@ -8,5 +8,16 @@ namespace projekt2
 {
     class Airport
     {
+        Airplane plane;
+        coord width;
+        coord length;
+        String PlaceName;
+        class coord
+        {
+            int deg;
+            int min;
+            int sec;
+        }
+     
     }
 }
