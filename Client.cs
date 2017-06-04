@@ -8,14 +8,25 @@ namespace projekt2
 {
     class Client
     {
+		List<Ticket> Tickets = new List<Ticket>();
 
+		public Client()
+		{
+			
+		}
     }
     class IndividualClient : Client
     {
+		public IndividualClient()
+		{
 
+		}
     }
     class CompanyClient : Client
     {
+		public CompanyClient()
+		{
 
+		}
     }
 }

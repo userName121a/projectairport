@@ -9,7 +9,7 @@ namespace projekt2
     class Ticket
     {
 
-        public Reserve(Ticket T)
+        public void Reserve(Ticket T)//czy na pewno void?
         {
 
         }
