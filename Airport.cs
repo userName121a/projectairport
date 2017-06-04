@@ -11,8 +11,8 @@ namespace projekt2
     {
         private String name;
         private int width;
-        public int height;
-        private int id;
+        private int height;
+		private int id;
         
         private static int counter = 0;
         public Airport(int width,int height,String name)

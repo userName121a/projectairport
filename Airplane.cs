@@ -33,7 +33,7 @@ namespace projekt2
         
         override public String ToString()
         {
-            String propert = "Plane nr  "+ id + "\nplaces " + places + "\nrange " + range + "\n";
+            String propert = "Plane nr: "+ id + "\nplaces:   " + places + "\nrange:    " + range;
             return propert;
         }
         
